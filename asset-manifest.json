@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lawees_glam/static/css/main.a617e044.chunk.css",
+    "main.js": "/lawees_glam/static/js/main.7bed5bb5.chunk.js",
+    "main.js.map": "/lawees_glam/static/js/main.7bed5bb5.chunk.js.map",
+    "runtime-main.js": "/lawees_glam/static/js/runtime-main.cb9dffaa.js",
+    "runtime-main.js.map": "/lawees_glam/static/js/runtime-main.cb9dffaa.js.map",
+    "static/js/2.fb350db9.chunk.js": "/lawees_glam/static/js/2.fb350db9.chunk.js",
+    "static/js/2.fb350db9.chunk.js.map": "/lawees_glam/static/js/2.fb350db9.chunk.js.map",
+    "static/js/3.1fad79f3.chunk.js": "/lawees_glam/static/js/3.1fad79f3.chunk.js",
+    "static/js/3.1fad79f3.chunk.js.map": "/lawees_glam/static/js/3.1fad79f3.chunk.js.map",
+    "index.html": "/lawees_glam/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/lawees_glam/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fb350db9.chunk.js.LICENSE.txt": "/lawees_glam/static/js/2.fb350db9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lawees_glam/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb9dffaa.js",
+    "static/js/2.fb350db9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7bed5bb5.chunk.js"
+  ]
+}
